@@ -28,7 +28,7 @@ root.title("Compresor para archivos PDF")
 # Establecer las dimensiones (ancho x alto)
 root.geometry("800x300")
 
-lbl1= Label(root, text="asdasdasd", bg="yellow")
+lbl1= Label(root, text="Bienvenido", bg="yellow")
 lbl1.place(x=10, y=10, width=100, height=30)
 
 # Botón para cargar el PDF
